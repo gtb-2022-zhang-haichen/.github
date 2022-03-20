@@ -9,7 +9,6 @@
 
 ### It's me in Glasgow.
 
-<img src="https://github.com/gtb-2022-zhang-haichen/.github/blob/main/profile/hccc02.jpeg" height="300" width="250"><img src="https://github.com/gtb-2022-zhang-haichen/.github/blob/main/profile/Hccc.jpeg" height="300" width="200"><img src="https://github.com/gtb-2022-zhang-haichen/.github/blob/main/profile/hccc04.jpeg" height="280" width="210">
-
+<img src="https://github.com/gtb-2022-zhang-haichen/.github/blob/main/profile/hccc02.jpeg" height="300" width="250">    <img src="https://github.com/gtb-2022-zhang-haichen/.github/blob/main/profile/Hccc.jpeg" height="300" width="200">
 ### It's me right now (PS++++++++++).
 <img src="https://github.com/gtb-2022-zhang-haichen/.github/blob/main/profile/hccc03.JPG" height="280" width="210">
